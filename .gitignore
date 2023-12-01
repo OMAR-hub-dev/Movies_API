@@ -34,4 +34,10 @@ build/
 
 ### Env files ###
 .env
+
 MovieApp.txt
+
+MovieApp.txt
+### front end ###
+movie_frontend/node_modules
+
